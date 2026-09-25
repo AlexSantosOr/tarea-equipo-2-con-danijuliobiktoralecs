@@ -1,0 +1,5 @@
+C:\Users\AlexM\OneDrive\Desktop\act 1 tarea 2 equipo\bin\Release\net10.0-windows\publish\MatrizCerosApp.exe
+C:\Users\AlexM\OneDrive\Desktop\act 1 tarea 2 equipo\bin\Release\net10.0-windows\publish\MatrizCerosApp.dll
+C:\Users\AlexM\OneDrive\Desktop\act 1 tarea 2 equipo\bin\Release\net10.0-windows\publish\MatrizCerosApp.deps.json
+C:\Users\AlexM\OneDrive\Desktop\act 1 tarea 2 equipo\bin\Release\net10.0-windows\publish\MatrizCerosApp.runtimeconfig.json
+C:\Users\AlexM\OneDrive\Desktop\act 1 tarea 2 equipo\bin\Release\net10.0-windows\publish\MatrizCerosApp.pdb

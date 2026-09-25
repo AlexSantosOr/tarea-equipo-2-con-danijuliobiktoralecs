@@ -1,0 +1,14 @@
+C:\Users\AlexM\OneDrive\Desktop\ABCD 2\CuadroMagicoApp\bin\Debug\net10.0-windows\CuadroMagicoApp.exe
+C:\Users\AlexM\OneDrive\Desktop\ABCD 2\CuadroMagicoApp\bin\Debug\net10.0-windows\CuadroMagicoApp.deps.json
+C:\Users\AlexM\OneDrive\Desktop\ABCD 2\CuadroMagicoApp\bin\Debug\net10.0-windows\CuadroMagicoApp.runtimeconfig.json
+C:\Users\AlexM\OneDrive\Desktop\ABCD 2\CuadroMagicoApp\bin\Debug\net10.0-windows\CuadroMagicoApp.dll
+C:\Users\AlexM\OneDrive\Desktop\ABCD 2\CuadroMagicoApp\bin\Debug\net10.0-windows\CuadroMagicoApp.pdb
+C:\Users\AlexM\OneDrive\Desktop\ABCD 2\CuadroMagicoApp\obj\Debug\net10.0-windows\CuadroMagicoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlexM\OneDrive\Desktop\ABCD 2\CuadroMagicoApp\obj\Debug\net10.0-windows\CuadroMagicoApp.AssemblyInfoInputs.cache
+C:\Users\AlexM\OneDrive\Desktop\ABCD 2\CuadroMagicoApp\obj\Debug\net10.0-windows\CuadroMagicoApp.AssemblyInfo.cs
+C:\Users\AlexM\OneDrive\Desktop\ABCD 2\CuadroMagicoApp\obj\Debug\net10.0-windows\CuadroMagicoApp.csproj.CoreCompileInputs.cache
+C:\Users\AlexM\OneDrive\Desktop\ABCD 2\CuadroMagicoApp\obj\Debug\net10.0-windows\CuadroMagicoApp.dll
+C:\Users\AlexM\OneDrive\Desktop\ABCD 2\CuadroMagicoApp\obj\Debug\net10.0-windows\refint\CuadroMagicoApp.dll
+C:\Users\AlexM\OneDrive\Desktop\ABCD 2\CuadroMagicoApp\obj\Debug\net10.0-windows\CuadroMagicoApp.pdb
+C:\Users\AlexM\OneDrive\Desktop\ABCD 2\CuadroMagicoApp\obj\Debug\net10.0-windows\CuadroMagicoApp.genruntimeconfig.cache
+C:\Users\AlexM\OneDrive\Desktop\ABCD 2\CuadroMagicoApp\obj\Debug\net10.0-windows\ref\CuadroMagicoApp.dll

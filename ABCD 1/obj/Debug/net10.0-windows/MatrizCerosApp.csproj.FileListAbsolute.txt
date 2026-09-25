@@ -1,0 +1,14 @@
+C:\Users\AlexM\OneDrive\Desktop\act 1 tarea 2 equipo\bin\Debug\net10.0-windows\MatrizCerosApp.exe
+C:\Users\AlexM\OneDrive\Desktop\act 1 tarea 2 equipo\bin\Debug\net10.0-windows\MatrizCerosApp.deps.json
+C:\Users\AlexM\OneDrive\Desktop\act 1 tarea 2 equipo\bin\Debug\net10.0-windows\MatrizCerosApp.runtimeconfig.json
+C:\Users\AlexM\OneDrive\Desktop\act 1 tarea 2 equipo\bin\Debug\net10.0-windows\MatrizCerosApp.dll
+C:\Users\AlexM\OneDrive\Desktop\act 1 tarea 2 equipo\bin\Debug\net10.0-windows\MatrizCerosApp.pdb
+C:\Users\AlexM\OneDrive\Desktop\act 1 tarea 2 equipo\obj\Debug\net10.0-windows\MatrizCerosApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlexM\OneDrive\Desktop\act 1 tarea 2 equipo\obj\Debug\net10.0-windows\MatrizCerosApp.AssemblyInfoInputs.cache
+C:\Users\AlexM\OneDrive\Desktop\act 1 tarea 2 equipo\obj\Debug\net10.0-windows\MatrizCerosApp.AssemblyInfo.cs
+C:\Users\AlexM\OneDrive\Desktop\act 1 tarea 2 equipo\obj\Debug\net10.0-windows\MatrizCerosApp.csproj.CoreCompileInputs.cache
+C:\Users\AlexM\OneDrive\Desktop\act 1 tarea 2 equipo\obj\Debug\net10.0-windows\MatrizCerosApp.dll
+C:\Users\AlexM\OneDrive\Desktop\act 1 tarea 2 equipo\obj\Debug\net10.0-windows\refint\MatrizCerosApp.dll
+C:\Users\AlexM\OneDrive\Desktop\act 1 tarea 2 equipo\obj\Debug\net10.0-windows\MatrizCerosApp.pdb
+C:\Users\AlexM\OneDrive\Desktop\act 1 tarea 2 equipo\obj\Debug\net10.0-windows\MatrizCerosApp.genruntimeconfig.cache
+C:\Users\AlexM\OneDrive\Desktop\act 1 tarea 2 equipo\obj\Debug\net10.0-windows\ref\MatrizCerosApp.dll
